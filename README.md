@@ -1,6 +1,6 @@
 ## Technology Used
 
-Tracalorie is built using JavaScript, CSS, and HTML. The project is bundled using Webpack. It utilizes the Bootstrap framework for styling and Font Awesome for icons.
+Tracalorie is built using JavaScript, CSS, and HTML. It utilizes the Bootstrap framework for styling and Font Awesome for icons.
 
 # Tracalorie
 
